@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: int
         """
         ringCount = [""]*10
-        print(ringCount)
         for i in range(0, len(rings) - 1, 2):
             colour = rings[i]
             ringNum = int(rings[i+1])
