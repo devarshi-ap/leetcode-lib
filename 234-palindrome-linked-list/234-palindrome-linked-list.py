@@ -15,5 +15,5 @@ class Solution(object):
             s += str(curr.val)
             curr = curr.next
         
-        return True if s == s[::-1] else False
+        return s == s[::-1]
         
