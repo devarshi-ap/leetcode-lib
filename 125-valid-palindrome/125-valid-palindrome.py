@@ -5,7 +5,5 @@ class Solution(object):
         :rtype: bool
         """
         ans = ""
-        for letter in s:
-            ans += letter.lower() if letter.isalnum() else ""
-        
+        for letter in s: ans += letter.lower() if letter.isalnum() else ""
         return ans == ans[::-1]
