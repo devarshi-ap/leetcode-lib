@@ -1,6 +1,8 @@
 class Solution:
     def triangleNumber(self, nums: List[int]) -> int:
         # naive = 3 nested for-loops, exhaust all triplets (O(n^3))
+        # a + b > c
+        # l + r > c
 
         nums.sort()
         count = 0
