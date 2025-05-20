@@ -8,12 +8,12 @@ class Solution:
                 # ([{ --> add closing counterpart to targets[]
                 stack.append(brackets[b])
             else:
-                # read CLOSING )]}, make sure its opening counterpart is top of stack before popping
+                # )]} --> make sure its opening counterpart is top of stack before popping
                 if stack and stack[-1] == b:
                         stack.pop()
                 else:
                     # list is empty, unbalanced brackets
                     return False
         
-        # targets better be empty
+        # stack better be empty
         return not stack
