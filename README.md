@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
