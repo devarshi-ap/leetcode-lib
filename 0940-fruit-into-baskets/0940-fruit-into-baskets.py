@@ -1,26 +1,26 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
+        # NOTE --> window expands by right++, shrinks by left++
+        # Tracks the count of each fruit in the current window
         basket = {}
         left = 0
         maxFruits = 0
 
         # window = [left, right]
-        # window expands by right++, shrinks by left++
         for right in range(len(fruits)):
-            # new-map/increment current fruit @ idx=right -> dict
-            currFruit = fruits[right]
-            basket[currFruit] = basket.get(currFruit, 0) + 1
+            # new fruit entry OR increment current fruit
+            fruit = fruits[right]
+            basket[fruit] = basket.get(fruit, 0) + 1
 
-            # if dict gets 3rd fruit entry, shrink window from left
+            # If we have more than 2 types, shrink the window from the left
             while len(basket) > 2:
                 leftFruit = fruits[left]
                 basket[leftFruit] -= 1
-                if basket[leftFruit] == 0: # no more leftFruit in either basket, remove entry
+                if basket[leftFruit] == 0:
                     del basket[leftFruit]
                 left += 1
-            
-            # update max
-            maxFruits = max(maxFruits, right - left + 1)
-        return maxFruits
 
-                
+            # Update max fruits collected in any valid window
+            maxFruits = max(maxFruits, right - left + 1)
+
+        return maxFruits
