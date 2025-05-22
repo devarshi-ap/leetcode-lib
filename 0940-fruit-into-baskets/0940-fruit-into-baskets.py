@@ -1,4 +1,5 @@
 __import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         # note --> window expands by right++, shrinks by left++
