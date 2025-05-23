@@ -9,9 +9,10 @@ class Solution:
             basket[fruit] = basket.get(fruit, 0) + 1 # new entry or increment
 
             while len(basket) > 2:
-                basket[fruits[start]] -= 1
-                if basket[fruits[start]] == 0:
-                    del basket[fruits[start]]
+                leftFruit = fruits[start]
+                basket[leftFruit] -= 1
+                if basket[leftFruit] == 0:
+                    del basket[leftFruit]
                 start += 1
             
             maxL = max(maxL, end - start + 1)
