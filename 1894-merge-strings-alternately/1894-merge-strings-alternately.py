@@ -8,7 +8,5 @@ class Solution:
             result += word2[i]
             i += 1
         
-        # now add rest from both words (shorter word returns "")
-        result += word1[i:] + word2[i:]
-
-        return result
+        # now add rest from both words (concat order doesn't matter now because shorterWord[i:] == "")
+        return result + word1[i:] + word2[i:]
