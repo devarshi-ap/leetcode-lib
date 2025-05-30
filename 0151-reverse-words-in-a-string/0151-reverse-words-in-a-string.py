@@ -1,5 +1,7 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+        # Two Pointer Solution
+        """
         l = r = len(s) - 1
         words = ""
         
@@ -15,3 +17,7 @@ class Solution:
                 r = l
         
         return words.strip()
+        """
+
+        # one-liner:
+        return " ".join(reversed(s.split()))
