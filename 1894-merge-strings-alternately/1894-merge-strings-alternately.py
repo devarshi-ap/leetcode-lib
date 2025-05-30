@@ -9,11 +9,6 @@ class Solution:
             i += 1
         
         # apbq, now add rs from longer word2
-
-        if len(word1) > len(word2):
-            # word1 is longer, add its rest to result
-            result += word1[i:]
-        else:
-            result += word2[i:]
+        result += word1[i:] if len(word1) > len(word2) else word2[i:]
 
         return result
