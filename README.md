@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/devarshi-ap/leetcode-lib/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/devarshi-ap/leetcode-lib/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -66,4 +68,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
