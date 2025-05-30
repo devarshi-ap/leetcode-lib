@@ -3,12 +3,13 @@ class Solution:
         result = ""
         i = 0
 
-        while i < min(len(word1), len(word2)): # 0 1
+        while i < len(word1) and i < len(word2): # 0 1
             result += word1[i]
             result += word2[i]
             i += 1
         
         # apbq, now add rs from longer word2
-        result += word1[i:] if len(word1) > len(word2) else word2[i:]
+        result += word1[i:]
+        result += word2[i:]
 
         return result
