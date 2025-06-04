@@ -18,14 +18,17 @@ class Solution:
         for end in range(len(nums)):
             newNum = nums[end]
             oldNum = nums[start]
-            currSum += newNum # add new num to sum
+            
+            # add new num to SUM and STATE (can have dupes)
+            currSum += newNum
             state[newNum] = state.get(newNum, 0) + 1
 
             if end - start + 1 == k: # window is good
-                if len(state) == k: # all nums in window distinct
+                if len(state) == k: # window has distinct nums
                     maxSum = max(maxSum, currSum) # update max
-            
-                currSum -= nums[start] # remove old num from sum
+
+                # slide window
+                currSum -= nums[start]
                 state[oldNum] -= 1
                 if state[oldNum] == 0:
                     del state[oldNum]
