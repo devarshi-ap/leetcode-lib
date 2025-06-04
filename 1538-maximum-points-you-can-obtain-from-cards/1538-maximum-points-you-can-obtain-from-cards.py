@@ -16,14 +16,15 @@ class Solution:
         if k >= len(cardPoints):
             return totalSum
 
-        currSum = maxPts = l = 0
+        currSum = maxPts = l = r = 0
 
-        for r in range(len(cardPoints)):
+        while r < len(cardPoints):
             currSum += cardPoints[r]
 
             if r - l + 1 == len(cardPoints) - k:
                 maxPts = max(maxPts, totalSum - currSum)
                 currSum -= cardPoints[l]
                 l += 1
+            r += 1
         
         return maxPts
