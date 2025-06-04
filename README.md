@@ -70,6 +70,7 @@
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/devarshi-ap/leetcode-lib/tree/master/1894-merge-strings-alternately) |
+| [3379-score-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
