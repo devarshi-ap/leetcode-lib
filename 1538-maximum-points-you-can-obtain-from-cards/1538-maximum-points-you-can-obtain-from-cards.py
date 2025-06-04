@@ -11,14 +11,13 @@ class Solution:
         1 2 - - 5
         1 2 3 - -
         """
+        if k >= len(cardPoints):
+            return sum(cardPoints)
 
         totalSum = sum(cardPoints)
         currSum = 0
         maxPts = 0
         l = 0
-
-        if k >= len(cardPoints):
-            return totalSum
 
         for r in range(len(cardPoints)):
             currSum += cardPoints[r]
