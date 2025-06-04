@@ -14,6 +14,7 @@
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2556-convert-the-temperature](https://github.com/devarshi-ap/leetcode-lib/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devarshi-ap/leetcode-lib/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
