@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 | ------- |
 | [0383-ransom-note](https://github.com/devarshi-ap/leetcode-lib/tree/master/0383-ransom-note) |
 | [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
