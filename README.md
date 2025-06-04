@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/devarshi-ap/leetcode-lib/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
