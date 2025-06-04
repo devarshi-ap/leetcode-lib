@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2556-convert-the-temperature](https://github.com/devarshi-ap/leetcode-lib/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devarshi-ap/leetcode-lib/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
