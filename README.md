@@ -14,6 +14,7 @@
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
+| [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +99,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/devarshi-ap/leetcode-lib/tree/master/0383-ransom-note) |
+| [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
