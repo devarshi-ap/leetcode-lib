@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarshi-ap/leetcode-lib/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -37,6 +38,7 @@
 | [0015-3sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/devarshi-ap/leetcode-lib/tree/master/0383-ransom-note) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
