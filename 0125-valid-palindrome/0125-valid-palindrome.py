@@ -9,10 +9,12 @@ class Solution:
 
         while ptrA < ptrB:
             # skip non-alphanumerics and spaces
-            while (not s[ptrA].isalnum() or s[ptrA] == " ") and ptrA < ptrB:
+            if not s[ptrA].isalnum() or s[ptrA] == " ":
                 ptrA += 1
-            while (not s[ptrB].isalnum() or s[ptrB] == " ") and ptrA < ptrB:
+                continue
+            elif not s[ptrB].isalnum() or s[ptrB] == " ":
                 ptrB -= 1
+                continue
             
             print(s[ptrA], ptrA, s[ptrB], ptrB)
             if s[ptrA].lower() == s[ptrB].lower(): # same char ==> move pointers in
