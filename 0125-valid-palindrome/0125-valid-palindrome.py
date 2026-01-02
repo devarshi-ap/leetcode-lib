@@ -1,25 +1,25 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         # ptrA from start, ptrB from end
-        ptrA = 0
-        ptrB = len(s)-1
+        l = 0
+        r = len(s)-1
 
         if len(s) < 2: # empty string & chars = Palindrome
             return True
 
-        while ptrA < ptrB:
+        while l < r:
             # skip non-alphanumerics and spaces
-            if not s[ptrA].isalnum() or s[ptrA] == " ":
-                ptrA += 1
-                continue
-            elif not s[ptrB].isalnum() or s[ptrB] == " ":
-                ptrB -= 1
-                continue
+            if not s[l].isalnum() or s[l] == " ":
+                l += 1
+                continue # jump back up
+            elif not s[r].isalnum() or s[r] == " ":
+                r -= 1
+                continue # jump back up
             
-            print(s[ptrA], ptrA, s[ptrB], ptrB)
-            if s[ptrA].lower() == s[ptrB].lower(): # same char ==> move pointers in
-                ptrA += 1
-                ptrB -= 1
+            print(s[l], l, s[r], r)
+            if s[l].lower() == s[r].lower(): # same char ==> move pointers in
+                l += 1
+                r -= 1
             else:
                 return False # not same char ==> not palindrome
         
