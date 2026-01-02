@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
