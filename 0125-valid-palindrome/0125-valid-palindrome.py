@@ -3,10 +3,7 @@ class Solution:
         # ptrA from start, ptrB from end
         l = 0
         r = len(s)-1
-
-        if len(s) < 2: # empty string & chars = Palindrome
-            return True
-
+        
         while l < r:
             # skip non-alphanumerics and spaces
             if not s[l].isalnum() or s[l] == " ":
