@@ -1,3 +1,3 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        return not len(nums) == len(set(nums))
+        return False if len(set(nums)) == len(nums) else True
