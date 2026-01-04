@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devarshi-ap/leetcode-lib/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarshi-ap/leetcode-lib/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devarshi-ap/leetcode-lib/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
@@ -76,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
