@@ -88,6 +88,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -139,6 +140,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
