@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/devarshi-ap/leetcode-lib/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
