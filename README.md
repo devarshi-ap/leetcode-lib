@@ -21,6 +21,7 @@
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devarshi-ap/leetcode-lib/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
