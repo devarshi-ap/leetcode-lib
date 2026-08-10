@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devarshi-ap/leetcode-lib/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
