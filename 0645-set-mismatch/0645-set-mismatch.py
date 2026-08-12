@@ -1,24 +1,23 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        # In-Place Negative Marking Approach
-        """
-        index_targets = [0]*len(nums)
+        # A) In-Place Negative Marking Approach
         dupe, lost = 0, 0
 
-        for i, x in enumerate(nums):
-            if index_targets[x-1] == -1: # already marked
-                dupe = x
+        for x in nums:
+            idx = abs(x)
+            if nums[idx-1] < 0: # negative; already marked
+                dupe = idx # found dupe
             else:
-                index_targets[x-1] = -1 # mark
+                nums[idx-1] = -nums[idx-1] # mark -x
         
-        for i, x in enumerate(index_targets):
-            if x == 0:
+        for i, x in enumerate(nums):
+            if x > 0:
                 lost = i+1
         
         return [dupe, lost]
+        
+        # B) Math Sum_expected=(n*[n+1])/2
         """
-
-        # Math Sum_expected=(n*[n+1])/2
         n = len(nums)
         expectedSum = (n*(n+1)) // 2 # expected sum (formula)
         actualSum = sum(nums) # actual sum
@@ -28,5 +27,4 @@ class Solution:
         lost = expectedSum - setSum
 
         return [duplicate, lost]
-        
-        
+        """
