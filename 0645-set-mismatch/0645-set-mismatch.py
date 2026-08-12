@@ -16,6 +16,7 @@ class Solution:
         
         return [dupe, lost]
         
+        
         # B) Math Sum_expected=(n*[n+1])/2
         """
         n = len(nums)
