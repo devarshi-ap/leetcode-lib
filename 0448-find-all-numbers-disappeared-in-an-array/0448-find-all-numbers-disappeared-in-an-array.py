@@ -11,7 +11,14 @@ class Solution:
         return list(expected.keys())
         """
 
-        # optimize and use sets:
+        # optimize and use sets (basically set difference:
+        """
         expected = [i for i in range(1,len(nums)+1)] # [1, 2]
         setNums = set(nums) # [1]
         return [x for x in expected if x not in setNums] # missing [2]
+        """
+
+        # or use builtin '-' operator (set diff)
+        expected = {i for i in range(1,len(nums)+1)} # [1, 2] using set comprehensino
+        setNums = set(nums) # [1]
+        return list(expected - setNums)
