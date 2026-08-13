@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/devarshi-ap/leetcode-lib/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3778-transform-array-by-parity](https://github.com/devarshi-ap/leetcode-lib/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -71,6 +73,7 @@
 | [0383-ransom-note](https://github.com/devarshi-ap/leetcode-lib/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devarshi-ap/leetcode-lib/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/devarshi-ap/leetcode-lib/tree/master/1203-print-in-order) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
