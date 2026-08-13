@@ -19,6 +19,7 @@ class Solution:
         """
 
         # or use builtin '-' operator (set diff)
-        expected = {i for i in range(1,len(nums)+1)} # [1, 2] using set comprehensino
-        setNums = set(nums) # [1]
-        return list(expected - setNums)
+        set_nums = set(nums) # [1]
+        expected = set(range(1, len(nums) + 1)) # [1, 2]
+        return list(expected - set_nums) # whats in [1,2] - that's not in [1] = [2]
+
