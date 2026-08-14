@@ -5,7 +5,6 @@ class Solution:
         
         # for-loop emulates stream
         for x in range(1, n+1):
-            print(x, myNums, target)
             if myNums == target:
                 return operations # we have match, stop
             else:
