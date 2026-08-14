@@ -24,6 +24,7 @@
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
@@ -124,10 +125,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devarshi-ap/leetcode-lib/tree/master/0020-valid-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
+| [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
