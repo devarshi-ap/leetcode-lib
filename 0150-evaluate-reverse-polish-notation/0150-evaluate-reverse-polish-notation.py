@@ -1,19 +1,23 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        # scan L->R
-        numStack = []
-        for x in tokens:
-            # read operator (+-/*) ? pop 2 nums from stack & eval
-            if x in "+-/*":
+        numStack = [] # (int's)
+
+        for token in tokens:
+            # operator ? pop 2 nums from stack, eval, put back result
+            if token in "+-/*":
                 b = numStack.pop() # op2 (added last)
                 a = numStack.pop() # op1
-                evalStr = a+x+b # ie. op1+op2
-                result = eval(f"int({evalStr})")
-                # print(evalStr,"=",result)
-                numStack.append(str(result))
-                # print(numStack)
-            # read num ? go in stack
+
+                if token == "+":
+                    numStack.append(a + b)
+                elif token == "-":
+                    numStack.append(a - b)
+                elif token == '*':
+                    numStack.append(a * b)
+                else:
+                    numStack.append(int(a / b)) # int(..) rounds down
+            # num ? add to stack
             else:
-                numStack.append(x)
-                # print(numStack)
-        return int(numStack[0]) # result is last num standing in stack
+                numStack.append(int(token))
+
+        return numStack[0] # result is last num standing in stack
