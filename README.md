@@ -183,4 +183,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devarshi-ap/leetcode-lib/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
