@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/employees-earning-more-than-their-managers">181. Employees Earning More Than Their Managers</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/not-boring-movies/description/?envType=problem-list-v2&envId=db-db1-sql-i">181. Employees Earning More Than Their Managers</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +-------------+---------+
