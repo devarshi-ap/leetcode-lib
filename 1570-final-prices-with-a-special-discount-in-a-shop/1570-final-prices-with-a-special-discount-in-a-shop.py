@@ -5,15 +5,14 @@ class Solution:
         stack = [] # indices, values in increasing order (monotonic increasing stack)
 
         for i, p in enumerate(prices):
-            # if stack not empty and current p can apply discounts to stack (p > prev_p in stack)
-            print(i, p)
-            print(stack)
+            # if stack not empty and current p can apply discounts to stack (current_p <= prev_p in stack)
             while stack and (p <= prices[stack[-1]]):
-                print(">",stack)
                 # apply discount to popped item
                 prev_i = stack.pop()
-                print("->", finalPrices, prev_i)
                 finalPrices[prev_i] -= p
+            # add current_i to help find discount in next iteration
             stack.append(i)
         
         return finalPrices
+
+        # WATCH: https://www.youtube.com/watch?v=3_BAIugNaLw
