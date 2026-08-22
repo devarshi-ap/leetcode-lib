@@ -26,6 +26,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
@@ -129,6 +130,7 @@
 | [0020-valid-parentheses](https://github.com/devarshi-ap/leetcode-lib/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devarshi-ap/leetcode-lib/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -190,4 +192,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/devarshi-ap/leetcode-lib/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/devarshi-ap/leetcode-lib/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/devarshi-ap/leetcode-lib/tree/master/0620-not-boring-movies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
