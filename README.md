@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devarshi-ap/leetcode-lib/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/devarshi-ap/leetcode-lib/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/devarshi-ap/leetcode-lib/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devarshi-ap/leetcode-lib/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/devarshi-ap/leetcode-lib/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
@@ -195,5 +197,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/devarshi-ap/leetcode-lib/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
