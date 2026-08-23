@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devarshi-ap/leetcode-lib/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devarshi-ap/leetcode-lib/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devarshi-ap/leetcode-lib/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/devarshi-ap/leetcode-lib/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
@@ -149,6 +151,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devarshi-ap/leetcode-lib/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarshi-ap/leetcode-lib/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
@@ -199,4 +202,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/devarshi-ap/leetcode-lib/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devarshi-ap/leetcode-lib/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devarshi-ap/leetcode-lib/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
