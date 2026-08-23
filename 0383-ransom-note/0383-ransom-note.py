@@ -9,11 +9,12 @@ class Solution:
         for c in magazine:
             char_freq[c] = char_freq.get(c, 0) + 1 # gets c's value (0 if not in dict) then + 1
         
+        # reduce each char in ransomNote from magazine
         for c in ransomNote:
-            if c not in char_freq:
+            # don't got that char
+            if char_freq.get(c, 0) <= 0:
                 return False
-            elif char_freq[c] >= 2:
-                char_freq[c] -= 1
-            else:
-                char_freq.pop(c)
+            # do got that char, reduce count
+            char_freq[c] -= 1
+        
         return True
