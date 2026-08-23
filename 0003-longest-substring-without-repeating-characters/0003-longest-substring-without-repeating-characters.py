@@ -5,16 +5,15 @@ class Solution:
 
         # sliding window, update chars{} on slide, window slides until chars{} is balanced (.values()=1).
         l,r = 0,0
-        while r < len(s):
+        for r, r_char in enumerate(s):
             # print(l, r, s[l:r], mySet)
-            # update chars{}
-            if s[r] not in mySet: # new char, add to window/chars{}, and move r-->
-                mySet.add(s[r])
-                r += 1
-            else: # dupe char, keep removing s[l] and sliding l until set is valid
-                while s[r] in mySet:
-                    mySet.discard(s[l])
-                    l += 1
+
+            # dupe char, keep removing s[l] and sliding l--> until set is valid
+            while r_char in mySet:
+                mySet.discard(s[l])
+                l += 1
+            # new char, add to window/chars{}, and move r-->
+            mySet.add(s[r])
             maxL = max(maxL, len(mySet))
         return maxL
 
