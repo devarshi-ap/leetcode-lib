@@ -1,22 +1,23 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        start = 0
+        mySet = set() # represents chars in current window
         maxL = 0
-        seen = {} # char -> count
 
-        # window = [start:end]
-        for end in range(len(s)):
-            currChar = s[end]
-            seen[currChar] = seen.get(currChar, 0) + 1 # add new entry or increment
-
-            # pwwkew {p: 1, w: 1} -> +w -> {p: 1, w: 2}
-            while seen[currChar] > 1:
-                if seen[s[start]] == 1:
-                    del seen[s[start]]
-                else:
-                    seen[s[start]] -= 1
-                start += 1
-
-            maxL = max(maxL, end - start + 1)
-        
+        # sliding window, update chars{} on slide, window slides until chars{} is balanced (.values()=1).
+        l,r = 0,0
+        while r < len(s):
+            # print(l, r, s[l:r], mySet)
+            # update chars{}
+            if s[r] not in mySet: # new char, add to window/chars{}, and move r-->
+                mySet.add(s[r])
+                r += 1
+            else: # dupe char, keep removing s[l] and sliding l until set is valid
+                while s[r] in mySet:
+                    mySet.discard(s[l])
+                    l += 1
+            maxL = max(maxL, len(mySet))
         return maxL
+
+
+                
+                
