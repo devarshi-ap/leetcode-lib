@@ -18,7 +18,7 @@ class Solution:
         # build number one digit at a time (int() only ever sees a single char)
         result = 0
         while i < n and s[i].isdigit():
-            result = result * 10 + int(s[i])
+            result = result * 10 + int(s[i]) # Mathematical way of iteratively reading number from L->R
             i += 1
 
         result *= sign
