@@ -7,7 +7,7 @@ class Solution:
         while l < r:
             currA = (r - l) * min(height[l], height[r]) # area = w * h
             maxA = max(maxA, currA)
-            print(f"{height[l]}, {height[r]}, {currA}, {maxA}")
+            # print(f"({r}-{l}) x ({min(height[l], height[r])}) = {currA} [{maxA}]")
             if height[l] <= height[r]: # l same or smaller, move inward
                 l += 1
             else:
