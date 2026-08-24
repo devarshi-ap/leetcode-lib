@@ -1,22 +1,16 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        # naive: nested for-loop calculate & compare maxArea O(n^2)
-        # 1. init pointers
-        left, right = 0, len(height)-1
-        maxArea = 0
+        # 2ptr's from opposite ends, calc area, track max, move ptr with smaller height inward (stop when l=r)
+        l, r = 0, len(height)-1
+        maxA = 0
 
-        # 2. setup algo invariant
-        while left < right:
-            # 3. do calculations
-            currArea = (right-left)*(min(height[left], height[right]))
-            maxArea = max(maxArea, currArea)
-            #. 4. move pointer(s) accordingly
-            if (height[left] > height[right]):
-                # L-height > R-height
-                right -= 1
+        while l < r:
+            currA = (r - l) * min(height[l], height[r]) # area = w * h
+            maxA = max(maxA, currA)
+            print(f"{height[l]}, {height[r]}, {currA}, {maxA}")
+            if height[l] <= height[r]: # l same or smaller, move inward
+                l += 1
             else:
-                # L-height > R-height
-                # L-height = R-height
-                left += 1
+                r -= 1
         
-        return maxArea
+        return maxA
