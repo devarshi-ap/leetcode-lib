@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarshi-ap/leetcode-lib/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devarshi-ap/leetcode-lib/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@
 | [0001-two-sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devarshi-ap/leetcode-lib/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devarshi-ap/leetcode-lib/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
@@ -121,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/devarshi-ap/leetcode-lib/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/devarshi-ap/leetcode-lib/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0345-reverse-vowels-of-a-string) |
@@ -156,6 +159,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devarshi-ap/leetcode-lib/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devarshi-ap/leetcode-lib/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 ## Counting
@@ -213,4 +217,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devarshi-ap/leetcode-lib/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
