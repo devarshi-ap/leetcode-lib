@@ -204,6 +204,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/devarshi-ap/leetcode-lib/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/devarshi-ap/leetcode-lib/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/devarshi-ap/leetcode-lib/tree/master/0620-not-boring-movies) |
+| [1415-students-and-examinations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1415-students-and-examinations) |
 ## Monotonic Stack
 |  |
 | ------- |
