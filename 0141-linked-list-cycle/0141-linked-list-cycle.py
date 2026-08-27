@@ -6,15 +6,23 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        # initialize a pointer to the head node
-        curr = head
-        # use a while loop to advance the pointer through node.next
-        while curr is not None:
-            print(curr.val)
-            if curr.val == "X":
+        """ Naive (destructive mutation) Approach:
+        a. init pointer to head node (c=head)
+        In while loop
+            b. change the node's value to some marker (c.val="X")
+            c. advance pointer (c=c.next)
+        """
+        if head is None:
+            return False
+        
+        s = f = head
+
+        while f and f.next is not None:
+            print(s.val, f.val)
+            s = s.next
+            f = f.next.next
+            if f == s:
                 return True
-            curr.val = "X"
-            curr = curr.next
         # stop when it reaches None
         print("None")
         return False
