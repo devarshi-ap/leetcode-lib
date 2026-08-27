@@ -4,15 +4,14 @@ class Solution:
         # sort arr, then run TwoPointers within for-loop
         nums.sort()
         combos = []
-        print(nums)
 
         for i in range(len(nums)-2): # - 2 saves 2 spaces right of i for L,R
             if i > 0 and nums[i] == nums[i-1]:  # skip duplicate i
                 continue
             # now just 2SUM!
             l, r = i+1, len(nums)-1
-            print(i, l, r)
             while l < r:
+                # print(i, l, r)
                 c_sum = nums[i] + nums[l] + nums[r]
                 if c_sum > 0: # too much (<--R)
                     r -= 1
