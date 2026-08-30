@@ -80,6 +80,7 @@
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/devarshi-ap/leetcode-lib/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/devarshi-ap/leetcode-lib/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devarshi-ap/leetcode-lib/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devarshi-ap/leetcode-lib/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/devarshi-ap/leetcode-lib/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/devarshi-ap/leetcode-lib/tree/master/0908-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -253,4 +255,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
