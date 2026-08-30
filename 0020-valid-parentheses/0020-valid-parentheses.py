@@ -1,19 +1,30 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        closeToOpenMap = {
+        if len(s) <= 1: return False
+
+        bracketMap = {
             ")": "(",
             "]": "[",
             "}": "{"
         }
-        bracketStack = []
+        stack = []
+
         for x in s:
             if x in "([{":
-                # x is opening bracket --> add to stack
-                bracketStack.append(x)
+                # add to stack if opening bracket
+                print(f"added {x} to stack")
+                stack.append(x)
             else:
-                # x is closing bracket --> should expect its own opening from stack pop
-                if (len(bracketStack) == 0) or bracketStack.pop() != closeToOpenMap.get(x):
+                # expect from pop if closing bracket
+                expected = bracketMap.get(x)
+                if len(stack) > 0:
+                    actual = stack.pop()
+                    print(f"{x}: {expected} vs. {actual}")
+                    if expected != actual:
+                        return False
+                else:
                     return False
         
-        # stack should be empty (closed all opening brackets in stack)
-        return True if len(bracketStack) == 0 else False
+        return len(stack) == 0
+        
+        return 
