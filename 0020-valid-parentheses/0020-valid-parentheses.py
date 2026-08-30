@@ -11,20 +11,11 @@ class Solution:
 
         for x in s:
             if x in "([{":
-                # add to stack if opening bracket
-                print(f"added {x} to stack")
+                # x is opening bracket --> add to stack
                 stack.append(x)
             else:
-                # expect from pop if closing bracket
-                expected = bracketMap.get(x)
-                if len(stack) > 0:
-                    actual = stack.pop()
-                    print(f"{x}: {expected} vs. {actual}")
-                    if expected != actual:
-                        return False
-                else:
+                # x is closing bracket --> should expect its own opening from stack pop
+                if (len(stack) == 0) or stack.pop() != bracketMap.get(x):
                     return False
         
         return len(stack) == 0
-        
-        return 
