@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devarshi-ap/leetcode-lib/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/devarshi-ap/leetcode-lib/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devarshi-ap/leetcode-lib/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -239,6 +240,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devarshi-ap/leetcode-lib/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devarshi-ap/leetcode-lib/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/devarshi-ap/leetcode-lib/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
@@ -250,6 +252,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devarshi-ap/leetcode-lib/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devarshi-ap/leetcode-lib/tree/master/0021-merge-two-sorted-lists) |
 ## Backtracking
 |  |
