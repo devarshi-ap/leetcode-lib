@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/devarshi-ap/leetcode-lib/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devarshi-ap/leetcode-lib/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/devarshi-ap/leetcode-lib/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/devarshi-ap/leetcode-lib/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/devarshi-ap/leetcode-lib/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/devarshi-ap/leetcode-lib/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/devarshi-ap/leetcode-lib/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -157,6 +158,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devarshi-ap/leetcode-lib/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/devarshi-ap/leetcode-lib/tree/master/1395-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devarshi-ap/leetcode-lib/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
