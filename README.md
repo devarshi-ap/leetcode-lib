@@ -33,6 +33,7 @@
 | [1580-shuffle-the-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/devarshi-ap/leetcode-lib/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devarshi-ap/leetcode-lib/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -140,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/devarshi-ap/leetcode-lib/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/devarshi-ap/leetcode-lib/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/3379-score-of-a-string) |
 ## Stack
@@ -156,6 +158,7 @@
 | [0067-add-binary](https://github.com/devarshi-ap/leetcode-lib/tree/master/0067-add-binary) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
