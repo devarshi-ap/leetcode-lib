@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/devarshi-ap/leetcode-lib/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/devarshi-ap/leetcode-lib/tree/master/0940-fruit-into-baskets) |
+| [1395-minimum-time-visiting-all-points](https://github.com/devarshi-ap/leetcode-lib/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/devarshi-ap/leetcode-lib/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/devarshi-ap/leetcode-lib/tree/master/1552-build-an-array-with-stack-operations) |
@@ -105,6 +106,7 @@
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1395-minimum-time-visiting-all-points](https://github.com/devarshi-ap/leetcode-lib/tree/master/1395-minimum-time-visiting-all-points) |
 | [2556-convert-the-temperature](https://github.com/devarshi-ap/leetcode-lib/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devarshi-ap/leetcode-lib/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devarshi-ap/leetcode-lib/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devarshi-ap/leetcode-lib/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/devarshi-ap/leetcode-lib/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
