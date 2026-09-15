@@ -5,7 +5,9 @@
 #         self.next = next
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
-        l = r = dummy = head
+        l = r = head
+        dummy = ListNode(0)
+        dummy.next = head
         stack = []
 
         # pointer walk and add to stack
@@ -26,7 +28,7 @@ class Solution:
             counter += 1
             l = l.next
 
-        return dummy
+        return dummy.next
             
 
 
