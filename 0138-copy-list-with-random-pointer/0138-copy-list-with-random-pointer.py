@@ -19,16 +19,9 @@ class Solution:
             curr = curr.next
 
         # second pass: assigning .next/.random to newNodes
-        # for a in nodeMap:
-        #     A = nodeMap[a]
-        #     A.next = nodeMap[a.next] if a.next else None
-        #     A.random = nodeMap[a.random] if a.random else None
-
-        a = head
-        while a:
-            A = nodeMap[a]
-            A.next = nodeMap[a.next] if a.next else None
-            A.random = nodeMap[a.random] if a.random else None
-            a = a.next
+        for oldNode in nodeMap:
+            newNode = nodeMap[oldNode]
+            newNode.next = nodeMap[oldNode.next] if oldNode.next else None
+            newNode.random = nodeMap[oldNode.random] if oldNode.random else None
 
         return nodeMap[head]
