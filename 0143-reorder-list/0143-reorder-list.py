@@ -29,6 +29,3 @@ class Solution:
             r -= 1 # move r in
         
         stack[l].next = None # Terminate the tail to avoid cycles
-
-        return head
-
