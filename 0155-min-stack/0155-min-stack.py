@@ -5,14 +5,9 @@ class MinStack:
         self.stack = []
 
     def push(self, value: int) -> None:
-        # push tuple onto stack
-        if not self.stack:
-            # empty stack, set min
-            self.stack.append((value, value))
-        else:
-            # not empty stack, compare value to current_min to set min_so_far
-            current_min = self.stack[-1][1]
-            self.stack.append((value, min(value, current_min)))
+        # update current_min, then push tuple onto stack
+        current_min = value if not self.stack else min(value, self.stack[-1][1])
+        self.stack.append((value, current_min))
 
     def pop(self) -> None:
         # remove topmost value from stack (pop from back)
