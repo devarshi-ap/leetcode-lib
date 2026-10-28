@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/devarshi-ap/leetcode-lib/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devarshi-ap/leetcode-lib/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devarshi-ap/leetcode-lib/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/devarshi-ap/leetcode-lib/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devarshi-ap/leetcode-lib/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/devarshi-ap/leetcode-lib/tree/master/0908-middle-of-the-linked-list) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devarshi-ap/leetcode-lib/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [0136-single-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/devarshi-ap/leetcode-lib/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
 ## String
@@ -277,6 +281,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devarshi-ap/leetcode-lib/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -315,4 +320,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devarshi-ap/leetcode-lib/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
