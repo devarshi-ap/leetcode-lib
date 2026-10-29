@@ -22,16 +22,17 @@ class RandomizedSet:
         if val not in self.pos_map:
             return False
 
+        # 1. Locate the item to delete and the item currently at the end
         idx_to_remove = self.pos_map[val]
         last_element = self.nums[-1]
-
-        # swap & pop
+        
+        # 2. Move the last element into the gap of the deleted item
         self.nums[idx_to_remove] = last_element
         self.pos_map[last_element] = idx_to_remove
-
+        
+        # 3. Clean up the duplicate trailing item from list and remove from dict
         self.nums.pop()
         del self.pos_map[val]
-
         return True
 
     def getRandom(self) -> int:
