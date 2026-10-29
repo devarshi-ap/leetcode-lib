@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devarshi-ap/leetcode-lib/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devarshi-ap/leetcode-lib/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/devarshi-ap/leetcode-lib/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/devarshi-ap/leetcode-lib/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devarshi-ap/leetcode-lib/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/devarshi-ap/leetcode-lib/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/devarshi-ap/leetcode-lib/tree/master/0645-set-mismatch) |
@@ -115,6 +117,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/devarshi-ap/leetcode-lib/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/devarshi-ap/leetcode-lib/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/devarshi-ap/leetcode-lib/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devarshi-ap/leetcode-lib/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devarshi-ap/leetcode-lib/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/devarshi-ap/leetcode-lib/tree/master/1395-minimum-time-visiting-all-points) |
 | [2556-convert-the-temperature](https://github.com/devarshi-ap/leetcode-lib/tree/master/2556-convert-the-temperature) |
@@ -302,6 +305,7 @@
 | [0146-lru-cache](https://github.com/devarshi-ap/leetcode-lib/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/devarshi-ap/leetcode-lib/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/devarshi-ap/leetcode-lib/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/devarshi-ap/leetcode-lib/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -330,4 +334,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/devarshi-ap/leetcode-lib/tree/master/0232-implement-queue-using-stacks) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/devarshi-ap/leetcode-lib/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
